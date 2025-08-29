@@ -1,0 +1,11 @@
+# Node modules
+node_modules
+
+# Build output
+dist
+
+# Fichiers de configuration sensibles
+.env
+# Ignore node_modules
+node_modules
+
